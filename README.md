@@ -21,4 +21,11 @@ There are several steps I took before starting data processing. The first step I
    - kf_product.csv
 2. Create a new project in Google Cloud Platform - BigQuery with the existing name conditions
 3. Import a dataset from data provided by Kimia Farma, create a new name for the table uploaded to Google Cloud Platform - BigQuery, and provide auto-detect on the schema to create a new schema display according to the data that was previously imported into the dataset
+
+## Task 02 : Data Mart Design
+There are stages used before designing the Kimia Farma Business Year 2020-2023 Performance Analytics Dashboard. I will create queries and tables on Google Cloud Platform - BigQuery as a basis for designing dashboard.
+<details><summary>QUERIES</summary>
+
+```sql
+
   
