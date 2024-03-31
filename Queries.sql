@@ -149,19 +149,3 @@ ORDER BY
     kc.rating DESC, AVG(ft.rating) ASC
 LIMIT 5
 ;
-
---CREATE AGGREGATE TABLE 8: TOTAL PROFIT FOR EACH PROVINCE--
-CREATE TABLE Kimia_Farma.Total_Profit_Masing2_Provinsi AS
-SELECT
-    provinsi,
-    SUM(nett_profit) AS total_profit,
-    COUNT(product_id) AS total_produk_terjual
-FROM
-    `Kimia_Farma.Transaction_Analysis`
-GROUP BY
-    provinsi
-ORDER BY
-    total_profit DESC
-;
-    
-
