@@ -12,17 +12,17 @@ Looker Studio is a tool used to transform data into dashboards and reports that 
 ## Project Background - Kimia Farma Big Data Analytics Project Based Internship Program 2024
 The Project Based Internship Program in collaboration with Rakamin Academy and Kimia Farma Big Data Analytics is a self-development and career acceleration program intended to deepen the position of Big Data Analytics and introduce the skills that Big Data Analytics must have in companies. As a Big Data Analytics Intern at Kimia Farma, my task is to create a Performance Analytics Dashboard for Kimia Farma Business Year 2020-2023.
 
-## Task 01: Data Preparation
+## 1. Preparation Before Data Processing
 There are several steps I took before starting data processing. The first step I have to do is prepare the raw data into structured data so that the data is ready to be processed. The steps taken when preparing the data are:
-1. Download the data set provided by Kimia Farma, the data is as follows:
+a. Download the data set provided by Kimia Farma, the data is as follows:
    - kf_final_transaction.csv
    - kf_inventory.csv
    - kf_kantor_cabang.csv
    - kf_product.csv
-2. Create a new project in Google Cloud Platform - BigQuery with the existing name conditions
-3. Import a dataset from data provided by Kimia Farma, create a new name for the table uploaded to Google Cloud Platform - BigQuery, and provide auto-detect on the schema to create a new schema display according to the data that was previously imported into the dataset
+b. Create a new project in Google Cloud Platform - BigQuery with the existing name conditions
+c. Import a dataset from data provided by Kimia Farma, create a new name for the table uploaded to Google Cloud Platform - BigQuery, and provide auto-detect on the schema to create a new schema display according to the data that was previously imported into the dataset
 
-## Task 02 : Data Mart Design
+## 2. Data Processing to Create Data Mart Design
 There are stages used before designing the Kimia Farma Business Year 2020-2023 Performance Analytics Dashboard. I will create queries and tables on Google Cloud Platform - BigQuery as a basis for designing dashboard.
 <details><summary>QUERIES</summary>
 
@@ -207,4 +207,7 @@ LIMIT 5
   <br>8. TOP 5 BRANCHES WITH THE HIGHEST RATING, BUT THE LOWEST TRANSACTION RATING</br>
   
 </p>
-  
+
+## 3. Dashboard Performance Analytics Kimia Farma Business Year (2020-2023)
+
+
