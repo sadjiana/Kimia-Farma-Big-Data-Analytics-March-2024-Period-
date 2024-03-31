@@ -209,5 +209,7 @@ LIMIT 5
 </p>
 
 ## 3. Dashboard Performance Analytics Kimia Farma Business Year (2020-2023)
+After completing data processing by designing a Data Mart and analyzing tables from the dataset contained in Google Cloud Platform - BigQuery, the steps I took for the final step were, I created a Kimia Farma Business Year 2020-2023 Performance Analytics Dashboard in Google - Looker Studio Overview. My dashboard can be accessed at this link: https://lookerstudio.google.com/reporting/3559b561-7854-404f-9230-4df8a5cfa0a5
 
-
+![Image Alt text](IMAGES/DASHBOARD.jpg)
+<p align="center">9. DASHBOARD PERFORMANCE ANALYTICS KIMIA FARMA BUSINESS YEAR (2020-2023)
