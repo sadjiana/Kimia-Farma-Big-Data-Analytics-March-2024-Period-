@@ -1,6 +1,6 @@
 # Performance Analytics Kimia Farma Business Year (2020-2023)
 
-##Tools:
+##Tools
 1. Google Cloud Platform - BigQuery
 Google Cloud Platform, is a collection of cloud computing services offered by Google. GCP runs on the same infrastructure used by Google for its internal products, such as Google Search, YouTube and Gmail. BigQuery is a fully managed enterprise data warehouse that helps manage and analyze data with built-in features such as machine learning, geospatial analysis, and business intelligence.
 2. Google - Looker Studio Overview
