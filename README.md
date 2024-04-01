@@ -215,3 +215,24 @@ After completing data processing by designing a Data Mart and analyzing tables f
   <img src="/IMAGES/DASHBOARD.png">
   <br>9. DASHBOARD PERFORMANCE ANALYTICS KIMIA FARMA BUSINESS YEAR (2020-2023)</br>
 </p>
+
+From the dashboard on the side, you can see that several important indicators can be used as parameters in interpreting the data. We can analyze and review in terms of income, profits, and total transactions on sales of medicinal products in each particular table. If we look at annual income, total income experiences increases and decreases or insignificant fluctuations. However, we can see that in 2021, annual income has decreased. This was caused by the Covid-19 pandemic that hit at that time. So there was a decrease in income from the previous year. then in 2022 and 2023, income will return to its normal fluctuation trend again.
+
+Next, we looked at the provincial and city branches. If we conclude from the table from the provincial and city branches, we can analyze 3 important points: income, profits, and transactions. From the income, profits, and total transactions in the province, we can see that West Java province is the province with the largest total income, profits, and total transactions in Indonesia. followed by North Sumatra, Central Java, and so on. This is also the case in cities, cities that are part of West Java province such as the cities of Subang and Garut, have the highest total income and total transactions among other cities in Indonesia.
+
+## 4. Recommendation
+Suggestions that I can give to increase sales are:
+1. Conduct clear market research
+2. Improve product quality
+3. Improve customer service
+4. Expand the target market
+5. Hold attractive promotions
+6. Updates on technological developments
+7. Get testimonials and reviews
+8. Dare to innovate
+9. Update trend developments
+10. Do effective marketing
+
+We can also take advantage of great opportunities if we look at the income, profits and total transactions in West Java province. Because West Java Province is the province that has the largest Income, Profits and Total Transactions in Indonesia. We can focus on efforts that can increase sales, such as the 10 points above, to focus sales and product specialization in West Java province. So that the product can sell well and experience a significant upward trend.
+
+
